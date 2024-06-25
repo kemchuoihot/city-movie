@@ -1,7 +1,7 @@
 # Movie Streaming Website
 
 This is a movie streaming website where you can watch various movies that I've uploaded. The website is built using PHP and CSS for styling. It features a user-friendly interface where you can browse through the movies, watch trailers, and rate the movies.
-# Link deploy website: https://movie-city-2024.000webhostapp.com/index.php
+## Link deploy website: https://movie-city-2024.000webhostapp.com/index.php
 ## Features
 
 - **Watch Movies**: Browse and watch a selection of movies directly on the website.
