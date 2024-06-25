@@ -1,7 +1,7 @@
 # Movie Streaming Website
 
 This is a movie streaming website where you can watch various movies that I've uploaded. The website is built using PHP and CSS for styling. It features a user-friendly interface where you can browse through the movies, watch trailers, and rate the movies.
-
+# Link deploy website: https://movie-city-2024.000webhostapp.com/index.php
 ## Features
 
 - **Watch Movies**: Browse and watch a selection of movies directly on the website.
@@ -39,7 +39,7 @@ To run this project, you need to have:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/moviestreamingwebsite.git
+    git clone https://github.com/kemchuoihot/city-movie
     ```
 
 2. Set up the database using phpMyAdmin:
