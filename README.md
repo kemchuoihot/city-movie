@@ -4,7 +4,7 @@ This is a movie streaming website where you can watch various movies that I've u
 
 **Link deploy website**: https://movie-city-2024.000webhostapp.com/index.php
 
-**You can watch and rate films after logging in. So please log in or sign up.
+**You can watch and rate films after logging in. So please log in or sign up.**
 
 Log in with the admin credentials:
     - **Username**: `admin`
