@@ -7,7 +7,7 @@ This is a movie streaming website where you can watch various movies that I've u
 **You can watch and rate films after logging in. So please log in or sign up.**
 
 Log in with the admin credentials:
-    - **Username**: `admin`
+    - **Username**: `1`
     - **Password**: `1`
 
 
